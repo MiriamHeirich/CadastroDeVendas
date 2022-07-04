@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/07/01 13:47:30.000.566,=C:\Users\Bsoft\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/07/04 09:44:30.000.287,=C:\Users\Bsoft\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/07/04 09:45:52.000.692,C:\Users\Bsoft\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Bsoft\Desktop\Vendas Delphi\src\uPrincipal.dfm</Transaction>
+    <Transaction>2022/07/04 09:45:52.000.692,C:\Users\Bsoft\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Bsoft\Desktop\Vendas Delphi\src\uPrincipal.pas</Transaction>
+    <Transaction>2022/07/04 09:46:35.000.234,C:\Users\Bsoft\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Bsoft\Desktop\Vendas Delphi\CadastroDeVendas.dproj</Transaction>
+    <Transaction>2022/07/04 09:52:40.000.309,=C:\Users\Bsoft\Desktop\Vendas Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/07/04 10:00:17.000.246,C:\Users\Bsoft\Desktop\Vendas Delphi\Unit1.pas=C:\Users\Bsoft\Desktop\Vendas Delphi\src\Estilos\ProjetoVendas.Estilo\Vendas.Estilo.pas</Transaction>
+    <Transaction>2022/07/04 10:21:15.000.905,=C:\Users\Bsoft\Desktop\Vendas Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/07/04 10:22:02.000.192,=C:\Users\Bsoft\Desktop\Vendas Delphi\Unit2.pas</Transaction>
+    <Transaction>2022/07/04 10:23:22.000.996,C:\Users\Bsoft\Desktop\Vendas Delphi\Unit2.dfm=C:\Users\Bsoft\Desktop\Vendas Delphi\src\udtmConexao.dfm</Transaction>
+    <Transaction>2022/07/04 10:23:22.000.996,C:\Users\Bsoft\Desktop\Vendas Delphi\Unit2.pas=C:\Users\Bsoft\Desktop\Vendas Delphi\src\udtmConexao.pas</Transaction>
+    <Transaction>2022/07/04 10:24:04.000.402,C:\Users\Bsoft\Desktop\Vendas Delphi\Unit1.dfm=C:\Users\Bsoft\Desktop\Vendas Delphi\src\uTelaheranca.dfm</Transaction>
+    <Transaction>2022/07/04 10:24:04.000.402,C:\Users\Bsoft\Desktop\Vendas Delphi\Unit1.pas=C:\Users\Bsoft\Desktop\Vendas Delphi\src\uTelaheranca.pas</Transaction>
+    <Transaction>2022/07/04 15:10:13.800,=C:\Users\Bsoft\Desktop\Vendas Delphi\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

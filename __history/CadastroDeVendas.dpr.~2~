@@ -1,0 +1,15 @@
+program CadastroDeVendas;
+
+uses
+  Vcl.Forms,
+  uPrincipal in 'src\uPrincipal.pas' {frmPrincipal},
+  Vendas.Estilo in 'src\Estilos\ProjetoVendas.Estilo\Vendas.Estilo.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmPrincipal, frmPrincipal);
+  Application.Run;
+end.
